@@ -6,7 +6,7 @@ typora-root-url: wdsrimage
 
 超分辨率(super-resolution)的通俗解释就是：将低分辨率的图像通过算法转换成高分辨率图像。普通的放大会丢失图像信息，超分不会。
 
-![44ca6ac7fcbc92a](/44ca6ac7fcbc92a.png)
+![44ca6ac7fcbc92a](wdsrimage/44ca6ac7fcbc92a.png)
 
 
 
@@ -16,7 +16,7 @@ typora-root-url: wdsrimage
 
 ​	 计算PSNR要先知道MSE(均方误差)的计算。两个*m*×*n*单色图像*I*和*K*，如果一个为另外一个的噪声近似，那么它们的的均方误差定义为
 
-![1](/1.PNG)
+![1](wdsrimage/1.PNG)
 
 MSE的概念应该是比较熟悉的，这也是常见的损失函数。而PSNR就是通过MSE得出来的，公式如下
 
